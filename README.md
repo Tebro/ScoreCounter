@@ -9,6 +9,7 @@ The easiest way to get started with Foundation + Compass.
   * [compass](http://compass-style.org/): `gem install compass`
   * [bower](http://bower.io): `npm install bower -g`
   * [foundation](http://foundation.zurb.com): `gem install foundation`
+
 ## Quickstart
 
 Once you have all the dependencies installed run the following.
