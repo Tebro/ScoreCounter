@@ -1,0 +1,45 @@
+@import "settings";
+@import "foundation";
+
+
+body{
+  section.main-section {
+    height: 1080px;
+
+
+
+    .ng-valid.ng-dirty{
+      border-color: green;
+    }
+    .ng-invalid.ng-dirty{
+      border-color: red;
+    }
+
+    #header{
+      margin-top: 50px;
+    }
+
+    #setup {
+      margin-top: 100px;
+
+
+      #startButton {
+        margin-top: 100px;
+      }
+    }
+
+    #game {
+      margin-top: 50px;
+
+
+      .big-number{
+        font-size: 64px;
+      }
+
+    }
+
+
+
+  }
+
+}
