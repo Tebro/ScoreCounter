@@ -1,6 +1,7 @@
 # ScoreCounter
 
 Helps you compete with your friends.
+[Demo](http://tebro.github.io/ScoreCounter/scorecounter/index.html)
 
 ## Requirements
 
