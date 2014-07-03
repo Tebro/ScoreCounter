@@ -1,6 +1,6 @@
-# Foundation Compass Template
+# ScoreCounter
 
-The easiest way to get started with Foundation + Compass.
+Helps you compete with your friends.
 
 ## Requirements
 
