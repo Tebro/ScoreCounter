@@ -8,16 +8,16 @@ The easiest way to get started with Foundation + Compass.
   * [Node.js](http://nodejs.org)
   * [compass](http://compass-style.org/): `gem install compass`
   * [bower](http://bower.io): `npm install bower -g`
-
+  * [foundation](http://foundation.zurb.com): `gem install foundation`
 ## Quickstart
 
-  * [Download this starter compass project and unzip it](https://github.com/zurb/foundation-compass-template/archive/master.zip)
-  * Run `bower install` to install the latest version of Foundation
-  
-Then when you're working on your project, just run the following command:
+Once you have all the dependencies installed run the following.
 
 ```bash
-compass watch
+git clone https://github.com/Tebro/ScoreCounter.git
+cd ScoreCounter
+foundation update
+compass compile
 ```
 
 ## Upgrading
